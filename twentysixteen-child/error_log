@@ -1,0 +1,14 @@
+[07-Oct-2019 12:25:32 Etc/GMT] PHP Notice:  Undefined index: q in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 11
+[07-Oct-2019 13:54:42 Etc/GMT] PHP Notice:  Undefined index: savedposts in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 6
+[07-Oct-2019 13:54:42 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 6
+[07-Oct-2019 13:54:42 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 17
+[07-Oct-2019 13:54:42 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 18
+[07-Oct-2019 13:54:44 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 6
+[07-Oct-2019 13:54:44 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 17
+[07-Oct-2019 13:54:44 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 18
+[07-Oct-2019 13:54:47 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 6
+[07-Oct-2019 13:54:47 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 17
+[07-Oct-2019 13:54:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 18
+[07-Oct-2019 13:54:54 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 6
+[07-Oct-2019 13:54:54 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 17
+[07-Oct-2019 13:54:54 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/theai4gd/public_html/thespoke/wordpress/wp-content/themes/twentysixteen-child/savepost.php on line 18
